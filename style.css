@@ -1,0 +1,30 @@
+*{
+  background-color: black;
+  color: white;
+}
+h1{
+  margin-top: 100px;
+  margin-bottom: 200px
+}
+
+.logo{
+  margin-left: 7%;
+  margin-right:7%
+}
+.logo1{
+  margin-right:7%
+}
+.logo2{
+  margin-right:7%
+}
+.logo3{
+  margin-right:7%
+}
+nav{
+  text-align: center;
+  height:80px;
+  width:90%;
+  border: 2px solid grey;
+  border-radius: 30px;
+  padding-top: 30px 
+}
